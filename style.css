@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+header{
+    color: aliceblue;
+    border-bottom: dotted lemonchiffon;
+}
+nav a{
+    color: black;
+}
+nav{
+    text-align: center;
+}
+button :hover{
+    background-image: linear-gradient(black, darkblue);
+    color: khaki;
+    border: dotted black 2px;
+}
+button{
+    background-color:khaki;
+    width: 100px;
+    height: 40px;
+    margin: 40px;
+    border-radius: 10%;
+}
+.Info {
+    color: aliceblue;
+}
+.piano{
+    background-color: lemonchiffon;
+}
+.p2 img{
+    width: 300px;
+}
+.p2 {
+    border: dotted black;
+    font-size:17px;
+}
+.p1 {
+    border: dotted black;
+    font-size:17px;
+}
+.p3 img{
+    width: 300px;
+}
+.p1 img{
+    width: 300px;
+}
+.p3 {
+    border: dotted black;
+    font-size:17px;
+}
+.guitars img{
+    width: 300px;
+}
+.guitars{
+    font-size: 17px;
+    background-color: lemonchiffon;
+}
+.q1{
+    border: dotted black
+}
+.q3{
+    border: dotted black
+}
+.q2{
+    border: dotted black
+}
+.violins img{
+    width: 300px;
+}
+.violins{
+    font-size: 17px;
+    background-color: lemonchiffon;
+}
+.v1{
+    border: dotted black
+}
+.v3{
+    border: dotted black
+}
+.v2{
+    border: dotted black
+}
+footer {
+    color: aliceblue;
+    padding-top: 100px;
+}
+footer p{
+        border-top: dashed lemonchiffon;
+}
